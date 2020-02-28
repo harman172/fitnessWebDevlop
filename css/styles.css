@@ -261,7 +261,8 @@ footer a{
       background-color: #ffffff;
     }
     header{
-      text-align: left;
+      /* text-align: left; */
+
     }
     nav{
       float: right;
